@@ -1,4 +1,4 @@
-**Github 
+**Github-- 
 Final Project Making Process**
 =====
 
@@ -28,11 +28,11 @@ was pretty positive.
 Started to plot the character appearance and emotion words appearance cumulative plots 
 and developed Tokenization function.
 
-4/29 Finish the word frequency counting. Got some problems when trying to rank the frequency 
+4/29 Finished the word frequency counting. Got some problems when trying to rank the frequency 
 of word appearance and found a way to use lambda function. Started to write qualitative 
 analysis together. 
 
-5/1 Combine the codes and qualitative analysis altogether on Jupyter Notebook and 
+5/1 Combined the codes and qualitative analysis altogether on Jupyter Notebook and 
 finalized the contents. 
 
 
