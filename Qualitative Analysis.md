@@ -1,7 +1,7 @@
-**Github 
-Final Project
+**Github--
+Final Project--
 Introduction and Data Analysis
-Derick Yang**
+--Derick Yang**
 =====
 
 For this project, we used Python to parse through the classic novels listed on 
@@ -13,10 +13,10 @@ These two books are something that we have some familiarity with and also becaus
 many American students probably had it as assigned reading in high school. 
 The Python packages we used for this project were listed below:
 
-Urllib.request
-Numpy
-Pandas
-Tokenizer 
+-Urllib.request
+-Numpy
+-Pandas
+-Tokenizer 
 
 First we used urllib.request to call the html website page where the digital novels locate
  and stored them into a variable. After we got the whole content of the novels, we split 
