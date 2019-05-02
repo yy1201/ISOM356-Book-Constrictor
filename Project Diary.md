@@ -1,6 +1,6 @@
 **ISOM356 Final Project Making Process**
 =====
-_Matthew Lee & Derick Yang
+Matthew Lee & Derick Yang
 
 4/11 First discussion about final project after class. Brainstorming and tossing ideas.
 
