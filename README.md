@@ -10,5 +10,5 @@ Item Summary:
 5. Tokenization: Codes to break down a novel into words and special characters and further to count the appearance frequency
 6. Qualitative Analysis: Written report for analyzing the data and how I created the table. (This part was also included in the final work)
 7. Final Work in ipynb format
-8. Final Work in html format (need  IE browser)
+8. Final Work in html format (need download and IE browser)
 
