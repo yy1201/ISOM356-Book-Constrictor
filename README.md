@@ -8,7 +8,7 @@ Item Summary:
 3. Scratch Codes: Some primitive codes we found on websites to teach programmer how to parse through text, count characters and plot cumulative graphs
 4. Sentence Length: Codes I created to break down a novel into sentence and summarize all the information into dataframe
 5. Tokenization: Codes to break down a novel into words and special characters and further to count the appearance frequency
-6. Qualitative Analysis: Written report for analyze the data and how I created the table. (This part was also included in the final work)
+6. Qualitative Analysis: Written report for analyzing the data and how I created the table. (This part was also included in the final work)
 7. Final Work in ipynb format
 8. Final Work in HTML format (need IE browser)
 
