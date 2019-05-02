@@ -1,5 +1,4 @@
-**Github 
-Final Project Making Process**
+**ISOM356 Final Project Making Process_Matthew Lee & Derick Yang**
 =====
 
 4/11 First discussion about final project after class. Brainstorming and tossing ideas.
@@ -8,10 +7,10 @@ Final Project Making Process**
 through digital books and build cumulative graph using Matplotlib. The idea to build 
 Book Constrictor formed.
 
-4/18 Started to test the codes with gutenberg.com. After the codes output the results 
-we wanted, we discussed about the books we wanted to analyze and how we could to create 
+4/18 Started to test the codes with gutenberg.com. After the codes gave us positive feedback, 
+we discussed about the books we wanted to analyze and how we could expand beyond that and create 
 more interesting codes for exploration. Two books that we reached a consensus were the 
-Adventures of Huckleberry Finn and the Adventures of Tom Sawyer. 
+Adventures of Huckleberry Finn and the Adventures of Tom Sawyer by Mark Twain
 
 4/20 Created pandas dataframe to store average sentence data and created distribution 
 graph using Matplotlib. 
