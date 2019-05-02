@@ -3,7 +3,7 @@ This repository is for ISOM356 final project
 
 Item Summary:
 
-1. Project Diary: This file records the whole process how we created our final project by date
+1. Project Diary: This file records the whole process how we created our final project by date and our roles
 2. Github Learning Experience: Personal experience to use Github to develop our project
 3. Scratch Codes: Some primitive codes we found on websites to teach programmer how to parse through text, count characters and plot cumulative graphs
 4. Sentence Length: Codes I created to break down a novel into sentence and summarize all the information into dataframe
