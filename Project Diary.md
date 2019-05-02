@@ -2,6 +2,7 @@
 =====
 Matthew Lee & Derick Yang
 
+## Diary
 4/11 First discussion about final project after class. Brainstorming and tossing ideas.
 
 4/16 Found some scratch codes on website that taught Python users to use Numpy packages to parse 
@@ -34,6 +35,17 @@ analysis together.
 
 5/1 Combined the codes and qualitative analysis altogether on Jupyter Notebook and 
 finalized the contents. 
+
+## Team Roles
+Derick Yang
+1. Scratch codes searching
+2. Codes for sentence length part and tokenization function
+3. Qualitative analysis for sentence length data and tokenization function explanation
+
+Matthew Lee
+1. PPT making
+2. Codes for character cumulative appearance and emotion word cumulative appearance
+3. Qualitative analysis for character and plots
 
 
 
